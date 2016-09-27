@@ -1,5 +1,7 @@
 # m3u-converter
 
+[![Build Status](https://travis-ci.org/siddharthist/m3u-converter.svg?branch=master)](https://travis-ci.org/siddharthist/m3u-converter)
+
 This program generates nicely formatted, human and machine readable tracklists
 from M3U files.
 
